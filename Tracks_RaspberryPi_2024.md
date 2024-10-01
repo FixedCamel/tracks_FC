@@ -1,7 +1,7 @@
 Installing Tracks on Raspberry Pi in 2024
 ========================
 
-TLDR : [Tracks installation for RPi3B+](#tracksinstallation).
+TLDR : [Tracks installation for RPi3B+](https://github.com/FixedCamel/tracks_FC/blob/main/Tracks_RaspberryPi_2024.md#3-tracks-installation).
 
 
 ## 1. Introduction
