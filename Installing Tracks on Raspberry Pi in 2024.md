@@ -96,7 +96,6 @@ Update your Pi as needed using the GUI then update package handler. This took so
    
   Then I used these instructions to install ruby [Installing Ruby Debian](https://www.ruby-lang.org/en/documentation/installation/#apt):   
 1. `sudo apt-get install ruby-full`
-2. `sudo apt-get install ruby-dev`
 
 It takes some minutes to finish.
 
