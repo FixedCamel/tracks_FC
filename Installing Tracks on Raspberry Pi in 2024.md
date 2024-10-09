@@ -266,7 +266,7 @@ Now lets [populate your database with the Tracks schema](https://github.com/Trac
 
 
 Lastly lets [precompile assets](https://github.com/TracksApp/tracks/blob/master/doc/installation.md#precompile-assets):
-1. `sudo bundle exec rake assets:precompile RAILS_ENV=production`
+1. `bundle exec rake assets:precompile RAILS_ENV=production`
 
 If you skipped the previous subsections you will also get other error messages about:
 1. yarn
