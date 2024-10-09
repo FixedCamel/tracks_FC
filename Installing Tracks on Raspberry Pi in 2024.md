@@ -213,7 +213,7 @@ Save the file and proceed to the next subsection.
 
 With the Gemfile saved, return to the official instructions to config and use bundle for the installation:
 1. `bundle config set without mysql postgresql therubyracer` No output.
-2. `bundle config path /home/fc/.local/share/gem/ruby/3.1.0/bin` No output, required because of --user-install while installing gems. 
+2. `bundle config path $HOME/.local/share/gem/ruby/3.1.0/bin` No output, required because of --user-install while installing gems. 
 3. `bundle install` After it starts turn off your screen and got get a beverage. This can take 30 minutes to 2 hours.
 
 Only the third command will have an output.
