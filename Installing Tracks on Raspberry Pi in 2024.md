@@ -112,7 +112,7 @@ Warm up your train because it is finally time to install Rails. In my first trie
 This took some minutes but I got 7.2.1 as the version.
 
 To **permanently** add the path most people suggest to add this path to the end of .profile, a hidden file in your user home folder. The easiest way is to use this command:
-1. `echo "PATH="$HOME/.local/share/gem/ruby/3.1.0/bin:$PATH" >> .profile`
+1. `echo 'PATH="$HOME/.local/share/gem/ruby/3.1.0/bin:$PATH' >> .profile`
 
 ![end of .profile](./notepad_wMF08dC0Yr.png)
 
