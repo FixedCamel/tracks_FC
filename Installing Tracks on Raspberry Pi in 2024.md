@@ -313,7 +313,7 @@ From the Pi head over to http://localhost:3000/signup or http://0.0.0.0:3000/sig
 
 From another computer in your network you can access the site at the Pis IP:3000 similar to this example http://192.168.xxx.123:3000.
 
-![trackslogin](./TRACKS Login.png)
+![trackslogin](./TRACKSLogin.png)
 
 
 ### Adding to autostart
